@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccelMax" xml:space="preserve">
+    <value>Макс. ускорение</value>
+  </data>
+  <data name="AccelStart" xml:space="preserve">
+    <value>Начальное ускорение</value>
+  </data>
+  <data name="AccelStep" xml:space="preserve">
+    <value>Шаг ускорения</value>
+  </data>
+  <data name="Accumulated" xml:space="preserve">
+    <value>Накопительно</value>
+  </data>
+  <data name="AD" xml:space="preserve">
+    <value>Накопление/распределение</value>
+  </data>
+  <data name="ADX" xml:space="preserve">
+    <value>Индекс среднего направления движения</value>
+  </data>
+  <data name="AlertFile" xml:space="preserve">
+    <value>Звук</value>
+  </data>
+  <data name="Alerts" xml:space="preserve">
+    <value>Алерты</value>
+  </data>
+  <data name="AllPeriodtxt" xml:space="preserve">
+    <value>Весь период</value>
+  </data>
+  <data name="Any" xml:space="preserve">
+    <value>Любое</value>
+  </data>
+  <data name="ApproximationAlert" xml:space="preserve">
+    <value>Алерт приближения цены к уровню</value>
+  </data>
+  <data name="ApproximationFilter" xml:space="preserve">
+    <value>Расстояние до цены для алерта</value>
+  </data>
+  <data name="Ask" xml:space="preserve">
+    <value>Аск</value>
+  </data>
+  <data name="AskAboveColor" xml:space="preserve">
+    <value>Цвет асков выше макс.объема</value>
+  </data>
+  <data name="AskColor" xml:space="preserve">
+    <value>Цвет асков</value>
+  </data>
+  <data name="ATR" xml:space="preserve">
+    <value>Средний истинный диапазон</value>
+  </data>
+  <data name="AtStart" xml:space="preserve">
+    <value>С начала</value>
+  </data>
+  <data name="AutoFilter" xml:space="preserve">
+    <value>Автофильтр</value>
+  </data>
+  <data name="AutoFilterPeriod" xml:space="preserve">
+    <value>Период автофильтра</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="AveragePeriod" xml:space="preserve">
+    <value>Период сглаживания</value>
+  </data>
+  <data name="BackGround" xml:space="preserve">
+    <value>Фон</value>
+  </data>
+  <data name="Bars" xml:space="preserve">
+    <value>Бары</value>
+  </data>
+  <data name="BarsDirection" xml:space="preserve">
+    <value>Направление баров</value>
+  </data>
+  <data name="BarsLimit" xml:space="preserve">
+    <value>Ограничение баров</value>
+  </data>
+  <data name="BBandsWidth" xml:space="preserve">
+    <value>Ширина канала</value>
+  </data>
+  <data name="Bearlish" xml:space="preserve">
+    <value>Медвежье</value>
+  </data>
+  <data name="Bid" xml:space="preserve">
+    <value>Бид</value>
+  </data>
+  <data name="BidAboveColor" xml:space="preserve">
+    <value>Цвет бидов выше макс.объема</value>
+  </data>
+  <data name="BidColor" xml:space="preserve">
+    <value>Цвет бидов</value>
+  </data>
+  <data name="BollingerBands" xml:space="preserve">
+    <value>Полосы Боллинджера</value>
+  </data>
+  <data name="BorderColor" xml:space="preserve">
+    <value>Граница свечей</value>
+  </data>
+  <data name="Bullish" xml:space="preserve">
+    <value>Бычье</value>
+  </data>
+  <data name="Buys" xml:space="preserve">
+    <value>Покупки</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="Calculation" xml:space="preserve">
+    <value>Вычисления</value>
+  </data>
+  <data name="CalculationMode" xml:space="preserve">
+    <value>Тип расчетов</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="Candles" xml:space="preserve">
+    <value>Свечи</value>
+  </data>
+  <data name="CandleVisualModeBars" xml:space="preserve">
+    <value>Бары</value>
+  </data>
+  <data name="CandleVisualModeCandles" xml:space="preserve">
+    <value>Свечи</value>
+  </data>
+  <data name="CCI" xml:space="preserve">
+    <value>Индекс товарного канала</value>
+  </data>
+  <data name="ChangingLevelAlert" xml:space="preserve">
+    <value>Алерт смены уровня</value>
+  </data>
+  <data name="Color" xml:space="preserve">
+    <value>Цвет</value>
+  </data>
+  <data name="Colors" xml:space="preserve">
+    <value>Цвета</value>
+  </data>
+  <data name="Common" xml:space="preserve">
+    <value>Общее</value>
+  </data>
+  <data name="CurrentDay" xml:space="preserve">
+    <value>Текущий день</value>
+  </data>
+  <data name="CurrentMonth" xml:space="preserve">
+    <value>Текущий месяц</value>
+  </data>
+  <data name="CurrentWeek" xml:space="preserve">
+    <value>Текущая неделя</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>День</value>
+  </data>
+  <data name="DaysToSave" xml:space="preserve">
+    <value>Сохранять дней</value>
+    <comment>Dom levels</comment>
+  </data>
+  <data name="Delta" xml:space="preserve">
+    <value>Дельта</value>
+  </data>
+  <data name="DeltaColored" xml:space="preserve">
+    <value>Раскраска по дельте</value>
+  </data>
+  <data name="DeltaType" xml:space="preserve">
+    <value>Тип дельты</value>
+  </data>
+  <data name="Diamondenum" xml:space="preserve">
+    <value>Ромб</value>
+  </data>
+  <data name="DINeg" xml:space="preserve">
+    <value>Индикатор направленности DI-</value>
+  </data>
+  <data name="DIPos" xml:space="preserve">
+    <value>Индикатор направленности DI+</value>
+  </data>
+  <data name="DownCandleColor" xml:space="preserve">
+    <value>Понижающиеся свечи</value>
+  </data>
+  <data name="Drawing" xml:space="preserve">
+    <value>Отрисовка</value>
+  </data>
+  <data name="DX" xml:space="preserve">
+    <value>Индекс направленного движения</value>
+  </data>
+  <data name="Ellipse" xml:space="preserve">
+    <value>Круг</value>
+  </data>
+  <data name="EMA" xml:space="preserve">
+    <value>Экспоненциальная скользящая средняя</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Фильтр</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Фильтры</value>
+  </data>
+  <data name="FirstDev" xml:space="preserve">
+    <value>Отклонение №1</value>
+  </data>
+  <data name="FixMaxValues" xml:space="preserve">
+    <value>Фиксировать максимальные значения</value>
+  </data>
+  <data name="FontColor" xml:space="preserve">
+    <value>Цвет текста</value>
+  </data>
+  <data name="Full" xml:space="preserve">
+    <value>Вся цена</value>
+  </data>
+  <data name="Highest" xml:space="preserve">
+    <value>Максимальное значение</value>
+  </data>
+  <data name="HighLow" xml:space="preserve">
+    <value>Макс/Мин</value>
+  </data>
+  <data name="HistorySaving" xml:space="preserve">
+    <value>Сохранение истории</value>
+    <comment>Dom levels</comment>
+  </data>
+  <data name="Hourly" xml:space="preserve">
+    <value>Час</value>
+  </data>
+  <data name="Left" xml:space="preserve">
+    <value>Слева</value>
+    <comment>Pivots</comment>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Линия</value>
+  </data>
+  <data name="LinearReg" xml:space="preserve">
+    <value>Линейная регрессия</value>
+  </data>
+  <data name="LineDashStyle" xml:space="preserve">
+    <value>Стиль линии</value>
+  </data>
+  <data name="LineDashStyleDash" xml:space="preserve">
+    <value>Тире</value>
+  </data>
+  <data name="LineDashStyleDashDot" xml:space="preserve">
+    <value>Тире-точка</value>
+  </data>
+  <data name="LineDashStyleDashDotDot" xml:space="preserve">
+    <value>Тире-точка-точка</value>
+  </data>
+  <data name="LineDashStyleDot" xml:space="preserve">
+    <value>Точка</value>
+  </data>
+  <data name="LineDashStyleSolid" xml:space="preserve">
+    <value>Сплошная</value>
+  </data>
+  <data name="Lines" xml:space="preserve">
+    <value>Линии</value>
+  </data>
+  <data name="LivelsLimit" xml:space="preserve">
+    <value>Макс.количество уровней</value>
+    <comment>Dom levels</comment>
+  </data>
+  <data name="LongPeriod" xml:space="preserve">
+    <value>Период длинный</value>
+  </data>
+  <data name="Lowest" xml:space="preserve">
+    <value>Минимальное значение</value>
+  </data>
+  <data name="MACD" xml:space="preserve">
+    <value>Схождение/расхождение скользящих средних</value>
+  </data>
+  <data name="MaxVolume" xml:space="preserve">
+    <value>Максимальный объем</value>
+  </data>
+  <data name="MeanDeviation" xml:space="preserve">
+    <value>Среднее отклонение</value>
+  </data>
+  <data name="Minimizedmode" xml:space="preserve">
+    <value>Режим минимизации</value>
+  </data>
+  <data name="MinVolume" xml:space="preserve">
+    <value>Минимальный объем</value>
+  </data>
+  <data name="Mode" xml:space="preserve">
+    <value>Режим</value>
+  </data>
+  <data name="Momentum" xml:space="preserve">
+    <value>Момент</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>Месяц</value>
+  </data>
+  <data name="Multiplier" xml:space="preserve">
+    <value>Множитель</value>
+  </data>
+  <data name="Negative" xml:space="preserve">
+    <value>Отрицательная</value>
+  </data>
+  <data name="OffsetMultiplier" xml:space="preserve">
+    <value>Коэффициент отклонения</value>
+  </data>
+  <data name="OnlyCluster" xml:space="preserve">
+    <value>Только цена</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Остальное</value>
+  </data>
+  <data name="Panel" xml:space="preserve">
+    <value>Панель</value>
+  </data>
+  <data name="ParabolicSAR" xml:space="preserve">
+    <value>Параболическая система SAR</value>
+  </data>
+  <data name="Period" xml:space="preserve">
+    <value>Период</value>
+  </data>
+  <data name="PivotRange" xml:space="preserve">
+    <value>Pivot диапазон</value>
+  </data>
+  <data name="Positive" xml:space="preserve">
+    <value>Положительная</value>
+  </data>
+  <data name="PreviousDay" xml:space="preserve">
+    <value>Прошлый день</value>
+  </data>
+  <data name="PreviousMonth" xml:space="preserve">
+    <value>Прошлый месяц</value>
+  </data>
+  <data name="PreviousWeek" xml:space="preserve">
+    <value>Прошлая неделя</value>
+  </data>
+  <data name="Rectangle" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="Right" xml:space="preserve">
+    <value>Справа</value>
+    <comment>Pivots</comment>
+  </data>
+  <data name="RSI" xml:space="preserve">
+    <value>Индекс относительной силы</value>
+  </data>
+  <data name="RVI" xml:space="preserve">
+    <value>Индекс относительной энергии</value>
+  </data>
+  <data name="SaveHistory" xml:space="preserve">
+    <value>Сохранять историю</value>
+    <comment>Dom levels</comment>
+  </data>
+  <data name="ScaleIt" xml:space="preserve">
+    <value>Автомасштабирование</value>
+  </data>
+  <data name="SecondDev" xml:space="preserve">
+    <value>Отклонение №2</value>
+  </data>
+  <data name="Sells" xml:space="preserve">
+    <value>Продажи</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="SessionDeltaMode" xml:space="preserve">
+    <value>Режим сессионной дельты</value>
+  </data>
+  <data name="ShortPeriod" xml:space="preserve">
+    <value>Период короткий</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Отображать</value>
+    <comment>Pivots</comment>
+  </data>
+  <data name="ShowCurrentValue" xml:space="preserve">
+    <value>Показывать текущее значение</value>
+  </data>
+  <data name="ShowDescription" xml:space="preserve">
+    <value>Отображать легенду индикатора</value>
+  </data>
+  <data name="ShowVolume" xml:space="preserve">
+    <value>Отображать объем</value>
+  </data>
+  <data name="ShowZeroValue" xml:space="preserve">
+    <value>Отображать нулевые значения</value>
+  </data>
+  <data name="SignalPeriod" xml:space="preserve">
+    <value>Период сигнала</value>
+  </data>
+  <data name="SMA" xml:space="preserve">
+    <value>Скользящая средняя</value>
+  </data>
+  <data name="SMMA" xml:space="preserve">
+    <value>Сглаженная скользящая средняя</value>
+  </data>
+  <data name="Smooth" xml:space="preserve">
+    <value>Сглаживание</value>
+  </data>
+  <data name="SourceDataSeries" xml:space="preserve">
+    <value>Источник</value>
+  </data>
+  <data name="StdDev" xml:space="preserve">
+    <value>Стандартное отклонение</value>
+  </data>
+  <data name="Stochastic" xml:space="preserve">
+    <value>Стохастик</value>
+  </data>
+  <data name="Text" xml:space="preserve">
+    <value>Текст</value>
+  </data>
+  <data name="TextLocation" xml:space="preserve">
+    <value>Расположение текста</value>
+    <comment>Pivots</comment>
+  </data>
+  <data name="TextSize" xml:space="preserve">
+    <value>Размер текста</value>
+    <comment>Pivots</comment>
+  </data>
+  <data name="Ticks" xml:space="preserve">
+    <value>Тики</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Время</value>
+  </data>
+  <data name="TimeFilterSec" xml:space="preserve">
+    <value>Фильтр времени, сек</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="TradesFilter" xml:space="preserve">
+    <value>Фильтр трейдов</value>
+    <comment>Speed of tape</comment>
+  </data>
+  <data name="Triangle" xml:space="preserve">
+    <value>Треугольник</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="UpCandleColor" xml:space="preserve">
+    <value>Повышающиеся свечи</value>
+  </data>
+  <data name="UseFilter" xml:space="preserve">
+    <value>Использовать фильтр</value>
+  </data>
+  <data name="UseHeightFactor" xml:space="preserve">
+    <value>Пропорциональная высота</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>Значение</value>
+  </data>
+  <data name="Visible" xml:space="preserve">
+    <value>Отображать</value>
+  </data>
+  <data name="VisualMode" xml:space="preserve">
+    <value>Режим</value>
+  </data>
+  <data name="VisualModeBlock" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="VisualModeCross" xml:space="preserve">
+    <value>Перекрестие</value>
+  </data>
+  <data name="VisualModeDots" xml:space="preserve">
+    <value>Точка</value>
+  </data>
+  <data name="VisualModeDownArrow" xml:space="preserve">
+    <value>Стрелка вниз</value>
+  </data>
+  <data name="VisualModeHash" xml:space="preserve">
+    <value>Подчеркивание</value>
+  </data>
+  <data name="VisualModeHide" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="VisualModeHistogram" xml:space="preserve">
+    <value>Гистограмма</value>
+  </data>
+  <data name="VisualModeLine" xml:space="preserve">
+    <value>Линия</value>
+  </data>
+  <data name="VisualModeOnlyValueOnAxis" xml:space="preserve">
+    <value>Надпись на оси</value>
+  </data>
+  <data name="VisualModeSquare" xml:space="preserve">
+    <value>Square</value>
+  </data>
+  <data name="VisualModeUpArrow" xml:space="preserve">
+    <value>Стрелка вверх</value>
+  </data>
+  <data name="VisualType" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="Volume" xml:space="preserve">
+    <value>Объем</value>
+  </data>
+  <data name="VolumeVisualizationType" xml:space="preserve">
+    <value>Тип визуализации</value>
+  </data>
+  <data name="Weekly" xml:space="preserve">
+    <value>Неделя</value>
+  </data>
+  <data name="Width" xml:space="preserve">
+    <value>Толщина</value>
+  </data>
+  <data name="WMA" xml:space="preserve">
+    <value>Взвешанная скользящая средняя</value>
+  </data>
+</root>

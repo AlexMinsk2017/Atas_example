@@ -1,0 +1,44 @@
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\CustomIndicatorSet.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\CustomIndicatorSet.pdb
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\obj\Debug\ResolveAssemblyReference.cache
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\obj\Debug\CustomIndicatorSet.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\obj\Debug\CustomIndicatorSet.pdb
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\ATAS.Indicators.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\ATAS.Indicators.pdb
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\ATAS.Common.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\ATAS.Common.pdb
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\en-us\ATAS.Indicators.resources.dll
+C:\C#Projects\OrderFlow\ATAS\Advanced Time And Sales\CustomIndicatorSet\bin\Debug\ru-ru\ATAS.Indicators.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.csprojResolveAssemblyReference.cache
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.Properties.Resources.resources
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.Properties.Resources.ru-ru.resources
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.csproj.GenerateResource.Cache
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.dll
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\CustomIndicatorSet.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\CustomIndicatorSet.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\CustomIndicatorSet.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\CustomIndicatorSet.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.Indicators.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\Utils.Common.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.View.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\log4net.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\linq2db.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\protobuf-net.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\Utils.Xaml.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.DataFeedsCore.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\MoreLinq.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\System.ValueTuple.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.Indicators.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.View.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\Utils.Xaml.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ATAS.DataFeedsCore.pdb
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\MoreLinq.xml
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\en-us\ATAS.Indicators.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\ATAS.Indicators.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\Utils.Xaml.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\ATAS.DataFeedsCore.resources.dll
+C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\ru-ru\CustomIndicatorSet.resources.dll
