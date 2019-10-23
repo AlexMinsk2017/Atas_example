@@ -42,3 +42,34 @@ C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\ATAS.Indicators
 C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\Utils.Xaml.resources.dll
 C:\Users\rinas_000\Desktop\Новая папка\bin\Debug\ru-ru\ATAS.DataFeedsCore.resources.dll
 C:\Users\rinas_000\Desktop\Новая папка\obj\Debug\ru-ru\CustomIndicatorSet.resources.dll
+D:\Project\Atas_example\bin\Debug\CustomIndicatorSet.dll
+D:\Project\Atas_example\bin\Debug\CustomIndicatorSet.pdb
+D:\Project\Atas_example\bin\Debug\ru-ru\CustomIndicatorSet.resources.dll
+D:\Project\Atas_example\bin\Debug\ATAS.View.dll
+D:\Project\Atas_example\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Atas_example\bin\Debug\log4net.dll
+D:\Project\Atas_example\bin\Debug\linq2db.dll
+D:\Project\Atas_example\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Atas_example\bin\Debug\protobuf-net.dll
+D:\Project\Atas_example\bin\Debug\Utils.Xaml.dll
+D:\Project\Atas_example\bin\Debug\ATAS.DataFeedsCore.dll
+D:\Project\Atas_example\bin\Debug\MoreLinq.dll
+D:\Project\Atas_example\bin\Debug\System.ValueTuple.dll
+D:\Project\Atas_example\bin\Debug\ATAS.Indicators.pdb
+D:\Project\Atas_example\bin\Debug\ATAS.View.pdb
+D:\Project\Atas_example\bin\Debug\Utils.Xaml.pdb
+D:\Project\Atas_example\bin\Debug\ATAS.DataFeedsCore.pdb
+D:\Project\Atas_example\bin\Debug\MoreLinq.xml
+D:\Project\Atas_example\bin\Debug\en-us\ATAS.Indicators.resources.dll
+D:\Project\Atas_example\bin\Debug\ru-ru\ATAS.Indicators.resources.dll
+D:\Project\Atas_example\bin\Debug\ru-ru\Utils.Xaml.resources.dll
+D:\Project\Atas_example\bin\Debug\ru-ru\ATAS.DataFeedsCore.resources.dll
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.csprojAssemblyReference.cache
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.Properties.Resources.resources
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.Properties.Resources.ru-ru.resources
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.csproj.GenerateResource.cache
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.csproj.CoreCompileInputs.cache
+D:\Project\Atas_example\obj\Debug\ru-ru\CustomIndicatorSet.resources.dll
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.csproj.CopyComplete
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.dll
+D:\Project\Atas_example\obj\Debug\CustomIndicatorSet.pdb
